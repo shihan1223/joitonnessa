@@ -1,0 +1,6 @@
+{
+  "name": "joitonnessa",
+  "description": "Medicine and meal routine manager with smart alarms, water tracking, and adherence history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
